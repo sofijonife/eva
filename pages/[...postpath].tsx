@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://cpmqueen.com/` + encodeURI(path as string) 
+					`https://pesterclinkaltogether.com/b9wvmjuwrw?key=bdde57f35879331942b4d12a287947a3`  
 				}`,
 			},
 		};
