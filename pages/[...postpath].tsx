@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://pesterclinkaltogether.com/b9wvmjuwrw?key=bdde57f35879331942b4d12a287947a3`  
+					`https://mh13job.blogspot.com/2023/08/her-new-images-are-here.html`  
 				}`,
 			},
 		};
